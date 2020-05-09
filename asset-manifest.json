@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aqi-index-service/static/css/main.a1f92bb1.chunk.css",
+    "main.js": "/aqi-index-service/static/js/main.c3e5e0dc.chunk.js",
+    "main.js.map": "/aqi-index-service/static/js/main.c3e5e0dc.chunk.js.map",
+    "runtime-main.js": "/aqi-index-service/static/js/runtime-main.149e0c85.js",
+    "runtime-main.js.map": "/aqi-index-service/static/js/runtime-main.149e0c85.js.map",
+    "static/js/2.4c61470f.chunk.js": "/aqi-index-service/static/js/2.4c61470f.chunk.js",
+    "static/js/2.4c61470f.chunk.js.map": "/aqi-index-service/static/js/2.4c61470f.chunk.js.map",
+    "index.html": "/aqi-index-service/index.html",
+    "precache-manifest.2691fc7e5a156fca5d09b3d343ee1ec6.js": "/aqi-index-service/precache-manifest.2691fc7e5a156fca5d09b3d343ee1ec6.js",
+    "service-worker.js": "/aqi-index-service/service-worker.js",
+    "static/css/main.a1f92bb1.chunk.css.map": "/aqi-index-service/static/css/main.a1f92bb1.chunk.css.map",
+    "static/js/2.4c61470f.chunk.js.LICENSE.txt": "/aqi-index-service/static/js/2.4c61470f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149e0c85.js",
+    "static/js/2.4c61470f.chunk.js",
+    "static/css/main.a1f92bb1.chunk.css",
+    "static/js/main.c3e5e0dc.chunk.js"
+  ]
+}
